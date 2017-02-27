@@ -14,8 +14,8 @@ To read the items in a list, you can either specify the index or iterate over th
 
 list = ["all", "is", "well", "that", "ends", "well"]
 
->>list[2] 
-"well"
+`>>list[2]`
+`"well"`
 
 >>for item in list: print(item)
 all is well that ends well
@@ -33,8 +33,8 @@ lovely_dictionary = dict()
 
 To read the items in a list, you just need to remember the key. 
 
->>> print(dictionary['school'])  
-NSS  
+`>>> print(dictionary['school'])`
+`NSS`
 
 
 ###Set 
@@ -42,8 +42,8 @@ NSS
 A **set** is similar to a list, but each item must be unique and cannot repeat. Sets are unordered and can be changed (mutable) after they are created.  
 
 lovely_set = [1, 1, 2, 2, 2, 2, 2, 3, 3]  
->> set(lovely_set)  
-{1, 2, 3}  
+`>> set(lovely_set)`  
+`{1, 2, 3}`
 
 
 ###Tuple
@@ -54,8 +54,8 @@ lovely_tuple = tuple()
 lovely_tuple = ('Abby', 'NSS', 'Nashville')  
 another_tuple = ('Abby',)  
 
->>> print(lovely_tuple)  
-('Abby', 'NSS', 'Nashville')  
+`>>> print(lovely_tuple)` 
+`('Abby', 'NSS', 'Nashville')`
 
 
 ####Resources
