@@ -1,6 +1,6 @@
-#Python Cheatsheet
+# Python Cheatsheet
 
-###List
+### List
 
 A **list** is the most versatile data type in Python. A list can hold *different types of data* and is written using brackets []. Lists are perfect for when you need an ordered *list* of items and can be changed (mutable) after they are created.
 
@@ -21,7 +21,7 @@ To read the items in a list, you can either specify the index or iterate over th
 `all is well that ends well`  
 
 
-###Dictionary
+### Dictionary
 
 A **dictionary** holds *key and value pairs* and is written using braces {}. The value of a key can also be a string, number, or list []. Dictionaries are perfect for when you just need to remember keys and can be changed (mutable) after they are created.
 
@@ -37,7 +37,7 @@ To read the items in a list, you just need to remember the key.
 `NSS`  
 
 
-###Set 
+### Set 
 
 A **set** is similar to a list, but each item must be unique and cannot repeat. Sets are unordered and can be changed (mutable) after they are created.  
 
@@ -46,7 +46,7 @@ A **set** is similar to a list, but each item must be unique and cannot repeat. 
 `{1, 2, 3}`  
 
 
-###Tuple
+### Tuple
 
 A **tuple** is also similar to a list in that it can hold different types of data. However, a tuple is immutable (cannot change) after it is created and uses parenthesis instead. A tuple containing a single item requires a trailing comma.
 
@@ -58,7 +58,7 @@ A **tuple** is also similar to a list in that it can hold different types of dat
 `('Abby', 'NSS', 'Nashville')`  
 
 
-####Resources
+#### Resources
 * https://tutorial.djangogirls.org/en/python_introduction/  
 * https://github.com/nashville-software-school/bangazon-llc/blob/master/orientation/FND_03_TYPES.md
 * http://stackoverflow.com/questions/15181867/understanding-the-set-function
